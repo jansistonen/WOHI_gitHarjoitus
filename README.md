@@ -1,1 +1,1 @@
-# WOHI_gitHarjoitus
+# WOHI_gitHarjoitus jansistonen
